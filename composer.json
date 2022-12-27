@@ -1,0 +1,11 @@
+{
+    "name": "diegussdev/text-to-speech",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "require": {
+        "google/cloud-text-to-speech": "^1.5"
+    }
+}
